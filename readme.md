@@ -11,3 +11,13 @@
 ```shell script
     $ go test ./... -v
 ```
+
+## check link shortener
+
+```shell script
+    $ go run main.go
+```
+
+#### notes
+
+thank you for giving me a chance (:
