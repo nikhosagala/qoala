@@ -1,7 +1,7 @@
 package roman_test
 
 import (
-	roman "qoala"
+	"qoala/roman"
 	"testing"
 )
 
